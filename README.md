@@ -1,1 +1,1 @@
-# ML_Assignment_1
+# Bayesian Classification Project
